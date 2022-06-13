@@ -26,6 +26,15 @@ a {
 
 }
 
-.centralizar {
+#rodape {
     text-align: center;
+}
+
+h1 {
+    color: #828271;
+    font-size: 1.2em;
+}
+
+.img-campanha {
+    border: 10px solid #c3c3ae;
 }
